@@ -1,4 +1,4 @@
-/*A program that will register runners for a  race and give them instructions on race day.*/
+/*This program will register runners for a  race and give them instructions on race day.*/
 
 //Race numbers are assigned randomly.
 let raceNumber = Math.floor(Math.random() * 1000);
@@ -7,7 +7,7 @@ let raceNumber = Math.floor(Math.random() * 1000);
 let early = false;
 
 //A variable for the runner's age.
-let runnerAge = 21;
+let runnerAge = 24;
 
 /*A control flow that check if the runner is an adult and registered early*/
 
